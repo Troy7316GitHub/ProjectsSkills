@@ -201,7 +201,7 @@ a:hover {
 
   background-image:
     linear-gradient(rgba(244,241,235,0.55), rgba(244,241,235,0.55)),
-    url("assets/images/tj_mega.jpg");
+    url("tj_mega.jpg");
 
   background-size: cover;
   background-position: center;
@@ -615,61 +615,61 @@ background-position: center top;
 }
 
 .roboboat-bg {
-  background: linear-gradient(to bottom, rgba(79, 112, 130, 0.3), rgba(48, 78, 99, 0.85)), url('assets/images/roboboat/boat-in-water.jpg');
+  background: linear-gradient(to bottom, rgba(79, 112, 130, 0.3), rgba(48, 78, 99, 0.85)), url('boat-in-water.jpg');
   background-size: cover;
   background-position: center;
 }
 
 .robosub-bg {
-  background: linear-gradient(to bottom, rgba(27, 83, 107, 0.3), rgba(13, 40, 54, 0.85)), url('assets/images/shpe/robosub-card.png');
+  background: linear-gradient(to bottom, rgba(27, 83, 107, 0.3), rgba(13, 40, 54, 0.85)), url('robosub-card.png');
   background-size: cover;
   background-position: center;
 }
 
 .battlebot-bg {
-  background: linear-gradient(to bottom, rgba(167, 80, 56, 0.3), rgba(110, 46, 30, 0.85)), url('assets/images/shpe/battlebot-details.png');
+  background: linear-gradient(to bottom, rgba(167, 80, 56, 0.3), rgba(110, 46, 30, 0.85)), url('battlebot-details.png');
   background-size: cover;
   background-position: center;
 }
 
 .tensile-bg {
-  background: linear-gradient(to bottom, rgba(87, 119, 109, 0.3), rgba(53, 78, 70, 0.85)), url('assets/images/projects/tensile-tester-details.png');
+  background: linear-gradient(to bottom, rgba(87, 119, 109, 0.3), rgba(53, 78, 70, 0.85)), url('tensile-tester-details.png');
   background-size: cover;
   background-position: center;
 }
 
 .club-bg {
-  background: linear-gradient(to bottom, rgba(116, 87, 120, 0.3), rgba(70, 48, 75, 0.85)), url('assets/images/shpe/shpe-leadership.png');
+  background: linear-gradient(to bottom, rgba(116, 87, 120, 0.3), rgba(70, 48, 75, 0.85)), url('shpe-leadership.png');
   background-size: cover;
   background-position: center;
 }
 
 .trapbar-bg {
-  background: linear-gradient(to bottom, rgba(168, 61, 61, 0.4), rgba(110, 34, 34, 0.9)), url('assets/images/projects/gym-innovations.png');
+  background: linear-gradient(to bottom, rgba(168, 61, 61, 0.4), rgba(110, 34, 34, 0.9)), url('gym-innovations.png');
   background-size: cover;
   background-position: center;
 }
 
 .dumbrack-bg {
-  background: linear-gradient(to bottom, rgba(108, 120, 115, 0.4), rgba(68, 76, 72, 0.9)), url('assets/images/projects/gym-innovations.png');
+  background: linear-gradient(to bottom, rgba(108, 120, 115, 0.4), rgba(68, 76, 72, 0.9)), url('gym-innovations.png');
   background-size: cover;
   background-position: center;
 }
 
 .sled-bg {
-  background: linear-gradient(to bottom, rgba(140, 134, 81, 0.4), rgba(82, 79, 43, 0.9)), url('assets/images/projects/gym-innovations.png');
+  background: linear-gradient(to bottom, rgba(140, 134, 81, 0.4), rgba(82, 79, 43, 0.9)), url('gym-innovations.png');
   background-size: cover;
   background-position: center;
 }
 
 .row-bg {
-  background: linear-gradient(to bottom, rgba(81, 113, 140, 0.4), rgba(47, 73, 94, 0.9)), url('assets/images/projects/gym-innovations.png');
+  background: linear-gradient(to bottom, rgba(81, 113, 140, 0.4), rgba(47, 73, 94, 0.9)), url('gym-innovations.png');
   background-size: cover;
   background-position: center;
 }
 
 .bench-bg {
-  background: linear-gradient(to bottom, rgba(92, 92, 92, 0.4), rgba(54, 54, 54, 0.9)), url('assets/images/projects/gym-innovations.png');
+  background: linear-gradient(to bottom, rgba(92, 92, 92, 0.4), rgba(54, 54, 54, 0.9)), url('gym-innovations.png');
   background-size: cover;
   background-position: center;
 }
@@ -687,7 +687,7 @@ background-position: center top;
 }
 
 .car-bg {
-  background: linear-gradient(to bottom, rgba(87, 144, 109, 0.3), rgba(49, 92, 67, 0.85)), url('assets/images/shpe/shpe-flyers.png');
+  background: linear-gradient(to bottom, rgba(87, 144, 109, 0.3), rgba(49, 92, 67, 0.85)), url('shpe-flyers.png');
   background-size: cover;
   background-position: center;
 }

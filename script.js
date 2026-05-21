@@ -163,7 +163,7 @@ const projectDetails = {
           { icon: "fa-star", title: "Prefinalists — 7th Place Overall", text: "advanced to the prefinalist round out of an international field of 40+ teams, securing a top-tier ranking and outperforming elite global institutions, including MIT." }
         ],
         images: [
-          { src: "assets/images/roboboat/roboboat-awards.png", label: "Roboboat 2026 Team Awards Photo", class: "modal-parts-img" }
+          { src: "roboboat-awards.png", label: "Roboboat 2026 Team Awards Photo", class: "modal-parts-img" }
         ]
       },
       {
@@ -175,8 +175,8 @@ const projectDetails = {
           { icon: "fa-water", title: "Buoyancy & Sealing", text: "Integrated custom gasket enclosures and waterproof wire-entry glands to prevent leaks." }
         ],
         images: [
-          { src: "assets/images/roboboat/roboboat-mechanical.png", label: "Mechanical Hull Assembly & CAD Model List", class: "modal-cad-img" },
-          { src: "assets/images/roboboat/master-bom.png", label: "RoboSub / RoboBoat Master BOM & Parts List", class: "modal-parts-img" }
+          { src: "roboboat-mechanical.png", label: "Mechanical Hull Assembly & CAD Model List", class: "modal-cad-img" },
+          { src: "master-bom.png", label: "RoboSub / RoboBoat Master BOM & Parts List", class: "modal-parts-img" }
         ]
       },
       {
@@ -188,7 +188,7 @@ const projectDetails = {
           { icon: "fa-box-open", title: "Waterproof Box Interior", text: "Assembled the waterproof electrical box interior containing motor drivers, relays, and main computer." }
         ],
         images: [
-          { src: "assets/images/roboboat/roboboat-electrical.png", label: "System Wiring Diagram & Waterproof Box Interior Enclosure", class: "modal-wiring-img" }
+          { src: "roboboat-electrical.png", label: "System Wiring Diagram & Waterproof Box Interior Enclosure", class: "modal-wiring-img" }
         ]
       },
       {
@@ -200,8 +200,8 @@ const projectDetails = {
           { icon: "fa-gauge-high", title: "Safety Configs & Failsafes", text: "Used QGroundControl to configure failsafe triggers, leak sensor alerts, and automated geofence aborts." }
         ],
         images: [
-          { src: "assets/images/roboboat/roboboat-software-qgc.png", label: "Safety and Parameter Configs in QGroundControl", class: "modal-soft-img" },
-          { src: "assets/images/shpe/robosub-software.png", label: "ROS2 Autonomous Navigation & Station Keeping Test Plans", class: "modal-safety-img" }
+          { src: "roboboat-software-qgc.png", label: "Safety and Parameter Configs in QGroundControl", class: "modal-soft-img" },
+          { src: "robosub-software.png", label: "ROS2 Autonomous Navigation & Station Keeping Test Plans", class: "modal-safety-img" }
         ]
       }
     ]
@@ -219,7 +219,7 @@ const projectDetails = {
           { icon: "fa-folder-open", title: "Strategic Navigation", text: "Created a master document covering all parts, tools, tasks, and deadlines to onboard new members rapidly." }
         ],
         images: [
-          { src: "assets/images/shpe/robosub-card.png", label: "Team Inspiration next to the pool with RoboSub AUVs", class: "modal-parts-img" }
+          { src: "robosub-card.png", label: "Team Inspiration next to the pool with RoboSub AUVs", class: "modal-parts-img" }
         ]
       },
       {
@@ -231,7 +231,7 @@ const projectDetails = {
           { icon: "fa-clipboard-list", title: "Deep Bill-of-Materials (BOM)", text: "Complete parts inventory cataloging component weights, costs, supplier links, and shelf locations." }
         ],
         images: [
-          { src: "assets/images/shpe/robosub-mechanical.png", label: "ONYX AUV Configuration Mechanical layout / Lab floor plan", class: "modal-cad-img" }
+          { src: "robosub-mechanical.png", label: "ONYX AUV Configuration Mechanical layout / Lab floor plan", class: "modal-cad-img" }
         ]
       },
       {
@@ -242,7 +242,7 @@ const projectDetails = {
           { icon: "fa-bolt", title: "Dual System Diagrams", text: "Maintained wiring schematics mapping batteries, power regulators, thrusters, and onboard telemetry." }
         ],
         images: [
-          { src: "assets/images/shpe/robosub-electrical.png", label: "GRAEY and ONYX Autonomous System Wiring Diagram", class: "modal-wiring-img" }
+          { src: "robosub-electrical.png", label: "GRAEY and ONYX Autonomous System Wiring Diagram", class: "modal-wiring-img" }
         ]
       },
       {
@@ -254,7 +254,7 @@ const projectDetails = {
           { icon: "fa-shield-halved", title: "QGroundControl Safety Setup", text: "Configured leak detection warnings, battery voltage failsafes, and automated motor arming checks." }
         ],
         images: [
-          { src: "assets/images/shpe/robosub-software.png", label: "QGroundControl Safety configuration and test checklists", class: "modal-soft-img" }
+          { src: "robosub-software.png", label: "QGroundControl Safety configuration and test checklists", class: "modal-soft-img" }
         ]
       }
     ]
@@ -272,7 +272,7 @@ const projectDetails = {
           { icon: "fa-shield-heart", title: "CAD & Structural Weld", text: "Engineered hard carbon-steel armor plate mounts in SolidWorks to absorb high-impact mechanical stress." }
         ],
         images: [
-          { src: "assets/images/shpe/battlebot-details.png", label: "BattleBot Mechanical CAD Design & System Diagrams Details", class: "modal-wiring-img" }
+          { src: "battlebot-details.png", label: "BattleBot Mechanical CAD Design & System Diagrams Details", class: "modal-wiring-img" }
         ]
       }
     ]
@@ -290,7 +290,7 @@ const projectDetails = {
           { icon: "fa-bolt", title: "Automatic Limits", text: "Identifies elastic vs plastic deformation thresholds, ultimate strain limits, and specimen fracture points." }
         ],
         images: [
-          { src: "assets/images/projects/tensile-tester-details.png", label: "MATLAB Tensile Testing App Stress-Strain Curve Analyzer", class: "modal-matlab-img" }
+          { src: "tensile-tester-details.png", label: "MATLAB Tensile Testing App Stress-Strain Curve Analyzer", class: "modal-matlab-img" }
         ]
       }
     ]
@@ -308,8 +308,8 @@ const projectDetails = {
           { icon: "fa-graduation-cap", title: "Technical Tutoring", text: "Assembled academic study panels and support groups in calculus, physics, and computer science." }
         ],
         images: [
-          { src: "assets/images/shpe/shpe-leadership.png", label: "Troy Prado Jr. with SHPE Chapter members and officers", class: "modal-parts-img" },
-          { src: "assets/images/shpe/shpe-flyers.png", label: "SHPE & Mesa Engineering Club Workshop Flyers Collection", class: "modal-cad-img" }
+          { src: "shpe-leadership.png", label: "Troy Prado Jr. with SHPE Chapter members and officers", class: "modal-parts-img" },
+          { src: "shpe-flyers.png", label: "SHPE & Mesa Engineering Club Workshop Flyers Collection", class: "modal-cad-img" }
         ]
       }
     ]
@@ -327,7 +327,7 @@ const projectDetails = {
           { icon: "fa-screwdriver", title: "Structural Welding", text: "Fabricated using high-strength steel hollow sections with clean, deep reinforced structural welds." }
         ],
         images: [
-          { src: "assets/images/extracted/trap_bar.jpg", label: "Custom Trap Bar", class: "modal-parts-img" }
+          { src: "trap_bar.jpg", label: "Custom Trap Bar", class: "modal-parts-img" }
         ]
       }
     ]
@@ -345,7 +345,7 @@ const projectDetails = {
           { icon: "fa-maximize", title: "Vertical Space Saving", text: "Saves 75% footprint compared to traditional horizontal racks." }
         ],
         images: [
-          { src: "assets/images/extracted/dumbbell_rack.jpg", label: "Dumbbell Storage Rack", class: "modal-parts-img" }
+          { src: "dumbbell_rack.jpg", label: "Dumbbell Storage Rack", class: "modal-parts-img" }
         ]
       }
     ]
@@ -363,7 +363,7 @@ const projectDetails = {
           { icon: "fa-lock", title: "Weight-Loading Pin", text: "Engineered centering loading post to maintain balance during acceleration." }
         ],
         images: [
-          { src: "assets/images/extracted/sled.jpg", label: "Custom Training Sled", class: "modal-parts-img" }
+          { src: "sled.jpg", label: "Custom Training Sled", class: "modal-parts-img" }
         ]
       }
     ]
@@ -381,7 +381,7 @@ const projectDetails = {
           { icon: "fa-user-check", title: "Wrist Biomechanics", text: "Adjustable angle handlebars facilitate a natural, comfortable pronated/supinated motion line." }
         ],
         images: [
-          { src: "assets/images/extracted/row_machine.jpg", label: "Chest-Supported Row Machine", class: "modal-parts-img" }
+          { src: "row_machine.jpg", label: "Chest-Supported Row Machine", class: "modal-parts-img" }
         ]
       }
     ]
@@ -399,7 +399,7 @@ const projectDetails = {
           { icon: "fa-shield", title: "Pivot Safety", text: "Heavily reinforced double-pivot mounts ensure full occupant weight load capacity is met safely." }
         ],
         images: [
-          { src: "assets/images/extracted/bench_support.jpg", label: "Adjustable Bench Supports", class: "modal-parts-img" }
+          { src: "bench_support.jpg", label: "Adjustable Bench Supports", class: "modal-parts-img" }
         ]
       }
     ]
@@ -417,7 +417,7 @@ const projectDetails = {
           { icon: "fa-star text-yellow-500", title: "5-Star Rating Curation", text: "Built a reputation for high-quality packaging, rapid delivery, and immaculate stitching standards." }
         ],
         images: [
-          { src: "assets/images/extracted/store.jpg", label: "Upcycled Curated Vintage Store", class: "modal-parts-img" }
+          { src: "store.jpg", label: "Upcycled Curated Vintage Store", class: "modal-parts-img" }
         ]
       }
     ]
@@ -450,7 +450,7 @@ const projectDetails = {
           { icon: "fa-recycle", title: "Waste Stream Reduction", text: "Showcases how post-consumer textiles can be transformed into premium bespoke winter garments." }
             ],
     images: [
-      { src: "assets/images/extracted/hoodie.jpg", label: "Upcycled Hoodie", class: "modal-parts-img" }
+      { src: "hoodie.jpg", label: "Upcycled Hoodie", class: "modal-parts-img" }
     ]
       }
     ]
@@ -468,7 +468,7 @@ const projectDetails = {
           { icon: "fa-palette", title: "Eco‑Aesthetic Fusion", text: "Combined corporate aesthetics with sustainable street fashion motifs." }
         ],
         images: [
-          { src: "assets/images/extracted/shirt.jpg", label: "Upcycled Dress Shirt", class: "modal-parts-img" }
+          { src: "shirt.jpg", label: "Upcycled Dress Shirt", class: "modal-parts-img" }
         ]
       }
     ]
@@ -486,10 +486,10 @@ const projectDetails = {
           { icon: "fa-camera", title: "Computer Vision Harness", text: "Sensor integration harness carrying Raspberry Pi 4, Arduino Uno, LiDAR sensor, and camera gear." }
         ],
         images: [
-          { src: "assets/images/extracted/monkey_bot.jpg", label: "Monkey Bot – Autonomous RC Car", class: "modal-parts-img" },
-{ src: "assets/images/extracted/monkey_bot_2.jpg", label: "Monkey Bot – Sensor Suite Detail", class: "modal-parts-img" },
-{ src: "assets/images/extracted/monkey_bot_3.jpg", label: "Monkey Bot – Chassis Overview", class: "modal-parts-img" },
-{ src: "assets/images/extracted/monkey_bot_4.jpg", label: "Monkey Bot – Final Build", class: "modal-parts-img" }
+          { src: "monkey_bot.jpg", label: "Monkey Bot – Autonomous RC Car", class: "modal-parts-img" },
+{ src: "monkey_bot_2.jpg", label: "Monkey Bot – Sensor Suite Detail", class: "modal-parts-img" },
+{ src: "monkey_bot_3.jpg", label: "Monkey Bot – Chassis Overview", class: "modal-parts-img" },
+{ src: "monkey_bot_4.jpg", label: "Monkey Bot – Final Build", class: "modal-parts-img" }
         ]
       },
       {
